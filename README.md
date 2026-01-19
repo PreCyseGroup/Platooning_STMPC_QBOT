@@ -8,6 +8,12 @@ A Set-Theoretic Control Strategy for a Platoon of Constrained Differential-Drive
 **Accepted in:** IEEE Transactions on Automation Science and Engineering (TASE)  
 **DOI:** [To be updated upon publication]
 
+## 🎥 Video Demonstration
+
+[![Platooning STMPC Demo](https://img.youtube.com/vi/v7aPkgLL9KI/0.jpg)](https://www.youtube.com/watch?v=v7aPkgLL9KI)
+
+Watch the experimental demonstration of the platooning control strategy  [YouTube Video](https://www.youtube.com/watch?v=v7aPkgLL9KI)
+
 ## Requirements
 
 ### Software Dependencies
