@@ -6,9 +6,9 @@ A Set-Theoretic Control Strategy for a Platoon of Constrained Differential-Drive
 
 **Authors:** Suryaprakash Rajkumar, Cristian Tiriolo, Walter Lucia  
 **Accepted in:** IEEE Transactions on Automation Science and Engineering (TASE)  
-**DOI:** [To be updated upon publication]
+**DOI:** 10.1109/TASE.2026.3656805
 
-## 🎥 Video Demonstration
+## Video Demonstration
 
 [![Platooning STMPC Demo](https://img.youtube.com/vi/v7aPkgLL9KI/0.jpg)](https://www.youtube.com/watch?v=v7aPkgLL9KI)
 
